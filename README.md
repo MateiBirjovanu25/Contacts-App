@@ -4,5 +4,5 @@ An application created for storing your contacts. It has a login screen and an i
 ## Skills Gained
 <br>
 <br>
-<img src="https://s3.gifyu.com/images/2021-05-21-13-20-16.gif"></img>
+<img src="https://s3.gifyu.com/images/2021-05-21-13-20-1657aa4282d98732b4.gif"></img>
 
